@@ -97,7 +97,7 @@ Keys should be given to the elements within the array to give the elements a sta
 
 ## Q: Can we use `index as keys` in React?
 A: Yes, we can use the `index as keys`, but it is not considered as a good practice to use them because if the order of items may change. This can negatively impact performance and may cause issues with component state.
-Keys are taken from each object which is being rendered. There might be a possibility that if we modify the incoming data react may render them in unusual order.
+Keys are taken from each object which is being rendered. There might be a possibility that if we modify the incomit ng data react may render them in unusual order.
 
 
 ## Q: What is `props in React`? Ways to.
