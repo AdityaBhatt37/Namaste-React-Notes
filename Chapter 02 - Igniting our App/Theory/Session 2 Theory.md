@@ -6,10 +6,13 @@
 A: It is a tool used for package management and the default package manager for Node projects. `NPM is installed when NodeJS` is installed on a machine. It comes with a command-line interface (CLI) used to interact with the online database of NPM. This database is called the NPM Registry, and it hosts public and private 'packages.' To add or update packages, we use the NPM CLI to interact with this database. 
 
 **What is npm?**
+
 *npm (Node Package Manager) is a tool that helps developers:
 
 *Download and install packages (ready-to-use code) for their projects.
+
 *Manage dependencies (libraries or tools your project needs).
+
 *Run scripts for tasks like building, testing, or deploying your app.
 
 - `npm` alternative is `yarn`
