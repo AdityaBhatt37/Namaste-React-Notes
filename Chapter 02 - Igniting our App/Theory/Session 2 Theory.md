@@ -7,13 +7,13 @@ A: It is a tool used for package management and the default package manager for 
 
 **What is npm?**
 
-*npm (Node Package Manager) is a tool that helps developers:
+* npm (Node Package Manager) is a tool that helps developers:
 
-*Download and install packages (ready-to-use code) for their projects.
+* Download and install packages (ready-to-use code) for their projects.
 
-*Manage dependencies (libraries or tools your project needs).
+* Manage dependencies (libraries or tools your project needs).
 
-*Run scripts for tasks like building, testing, or deploying your app.
+* Run scripts for tasks like building, testing, or deploying your app.
 
 - `npm` alternative is `yarn`
 
