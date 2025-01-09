@@ -51,6 +51,7 @@ const Header = () => {
 };
 
 // RestaurantList is JSON Data for displaying cards
+
 const restaurantList = [
   {
     type: "restaurant",
